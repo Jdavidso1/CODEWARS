@@ -36,12 +36,7 @@ namespace _5KYU_StringScrambleMatcher
                     }
                 }
             }
-            bool match = false;
-            if (str2 == new string(gather.ToArray()))
-            {
-                match = true;
-            }
-            return match;
+            return (str2 == new string(gather.ToArray()));
         }
     }
 }
