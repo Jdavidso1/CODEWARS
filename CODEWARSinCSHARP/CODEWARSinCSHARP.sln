@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7KYU_RegexPinValidate", "7KYU_RegexPinValidate\7KYU_RegexPinValidate.csproj", "{198B4C2C-9DDB-4FCE-9B44-42294DDC8D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5KYU_StringScrambleMatcher", "5KYU_StringScrambleMatcher\5KYU_StringScrambleMatcher.csproj", "{A4C6D45E-702C-4B3C-93B5-5E043140688B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5KYU_StringScrambleMatcher", "5KYU_StringScrambleMatcher\5KYU_StringScrambleMatcher.csproj", "{A4C6D45E-702C-4B3C-93B5-5E043140688B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6KYU_ConsecutiveStringLengths", "6KYU_ConsecutiveStringLengths\6KYU_ConsecutiveStringLengths.csproj", "{97529BAF-8735-438B-8009-7E7D742C9A9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A4C6D45E-702C-4B3C-93B5-5E043140688B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C6D45E-702C-4B3C-93B5-5E043140688B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C6D45E-702C-4B3C-93B5-5E043140688B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97529BAF-8735-438B-8009-7E7D742C9A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97529BAF-8735-438B-8009-7E7D742C9A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97529BAF-8735-438B-8009-7E7D742C9A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97529BAF-8735-438B-8009-7E7D742C9A9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
